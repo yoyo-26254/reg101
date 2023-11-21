@@ -1,14 +1,14 @@
 body {
     margin: 10;
     padding: 10;
-    background-color: rgb(245, 220, 220);
+    background-color: rgb(245, 225, 220);
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .page {
-    width: 89vw;
-    height: 89vh;
+    width: 90vw;
+    height: 90vh;
     box-sizing: content-box;
     display: flex;
     justify-content: center;
@@ -24,8 +24,8 @@ body {
 }
 
 .form-header {
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 2.5rem;
+    font-weight: 700;
     display: inline-block;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -76,7 +76,7 @@ body {
     flex-direction: column;
     background-color: #b0f8f8;
     border-radius: 10px;
-    box-shadow: rgba(195, 195, 215, 0.25) 0 54px 55px, rgba(196, 205, 215, 0.12) 0 -12px 30px,
+    box-shadow: rgba(195, 195, 230, 0.25) 0 54px 55px, rgba(196, 252, 215, 0.12) 0 -12px 30px,
         rgba(195, 199, 222, 0.12) 0 4px 6px, rgba(176, 188, 207, 0.17) 0 12px 13px,
         rgba(184, 198, 214, 0.09) 0 -3px 5px;
 }
